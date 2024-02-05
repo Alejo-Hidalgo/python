@@ -1,0 +1,15 @@
+# Considera a un muchacho que se deleita pintando su tablero de ajedrez. Su objetivo es saturar cada celda con tonos rojos o azules. En busca de darle una identidad propia, procura tener un equilibrio entre los espacios rojos y azules, previniendo que dos filas o columnas contengan el mismo número de celdas rojas.
+#¿Lograría pintar el tablero de ajedrez siguiendo estas pautas? ¿Qué acontecería si, en vez de un tablero de ajedrez común de 8x8, tuviera uno monumental de 1000x1000?
+
+# La lógica de pintar un tablero de 8x8 o uno de 1000x1000 es la misma. En mi caso lo pensé como una matriz en la cual recorro componente por componente revisando si el módulo de la suma de la columna con la fila es par o impar. A continuación, dejo una muestra de cómo quedaría el código escrito en Python:
+
+For i in range(1000):
+	For j in range(1000):
+		If (i+j) % 2 == 0:
+			Componente = “azul”
+		Else:
+			Componente = “rojo”
+ 
+
+# Hecho por Alejo Hidalgo. 
+# Perfil de linkedin: https://www.linkedin.com/in/alejo-rom%C3%A1n-hidalgo/
