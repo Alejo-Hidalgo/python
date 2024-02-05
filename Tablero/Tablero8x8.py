@@ -25,3 +25,6 @@ class Tablero(Tk):
 if __name__== "__main__":
     app = Tablero()
     app.mainloop()
+
+# Hecho por Alejo Hidalgo. 
+# Perfil de linkedin: https://www.linkedin.com/in/alejo-rom%C3%A1n-hidalgo/
