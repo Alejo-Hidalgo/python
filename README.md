@@ -1,3 +1,3 @@
-# Hola. Mi nombre es Alejo Hidalgo. Aca le voy a ir subiendo proyectos en Python que vaya terminando para mostrar mis avances.
+# Hola. Mi nombre es Alejo Hidalgo. Aca voy a ir subiendo proyectos en Python, que vaya terminando para mostrar mis avances.
  
 # Perfil de linkedin: https://www.linkedin.com/in/alejo-rom%C3%A1n-hidalgo/
